@@ -1,0 +1,5 @@
+name: UHCMeetupPro
+main: me.roxla.UHCMeetup
+version: 1.0
+author: Roxla
+depend: [WorldBorder]
